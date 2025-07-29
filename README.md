@@ -1,6 +1,6 @@
-# 🧭 Geo Route Optimizer (In Progress)
+# 🧭 Opriroute (In Progress)
 
-**Geo Route Optimizer** is a Python project that predicts and optimizes routing based on real road networks and machine learning models.  
+**Opriroute** is a Python project that predicts and optimizes vehicle routing based on real road networks and machine learning models.  
 It combines geospatial data processing, routing algorithms, and neural networks to create smarter route planning.
 
 ⚠️ **Project Status:** 🚧 *In Progress*
